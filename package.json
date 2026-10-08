@@ -1,0 +1,1 @@
+{"name":"appliance-energy-calculator","version":"0.1.0","private":true,"description":"Compare appliance energy scenarios using explicit assumptions","scripts":{"test":"node --test core.test.js"},"license":"MIT"}
